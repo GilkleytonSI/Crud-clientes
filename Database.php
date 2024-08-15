@@ -1,7 +1,7 @@
 <?php
 class Database {
     private $host = "localhost";
-    private $db_name = "meubanco";
+    private $db_name = "clientes_db";
     private $username = "root";
     private $password = "";
     public $conexao;
